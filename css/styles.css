@@ -1,0 +1,21 @@
+body {
+    background-color: #FFFFFF;
+    color: #212121;
+}
+
+/* стиль лого WebStudio */
+.logo {
+    color: #2196F3;
+}
+
+/* убирает точки в списке */
+.list {
+    list-style: none;
+}
+
+
+
+
+
+
+
