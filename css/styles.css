@@ -1,21 +1,54 @@
 body {
-    background-color: #FFFFFF;
-    color: #212121;
-}
-
-/* стиль лого WebStudio */
-.logo {
-    color: #2196F3;
+  background-color: #f5f5f5;
+  color: #212121;
+  font-family: "Roboto", sans-serif;
 }
 
 /* убирает точки в списке */
 .list {
-    list-style: none;
+  list-style: none;
 }
 
+/* стиль лого WebStudio */
+.logo {
+  font-family: "Raleway", cursive;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+}
 
+/* навигация header */
+.navigation {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
 
+.mail-header {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.02em;
+color: #2196F3;
+}
 
-
+.tel-header {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.02em;
+color: #757575;
+}
 
 
