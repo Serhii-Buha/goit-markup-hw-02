@@ -1,5 +1,4 @@
 body {
-  background-color: #f5f5f5;
   color: #212121;
   font-family: "Roboto", sans-serif;
 }
@@ -13,6 +12,13 @@ body {
 /* убирает точки в списке */
 .list {
   list-style: none;
+}
+
+/* убирает подчеркивание ссылки text-decoration: none */
+/* text-decoration: none | underline | line-through | overline */
+
+.link {
+  text-decoration: none;
 }
 
 /* свойство курсор */
